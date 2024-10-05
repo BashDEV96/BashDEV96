@@ -1,17 +1,10 @@
-- 👋 Hi, I’m @BashDEV96
-- 👀 I’m interested in the world of programming, particularly with a fascination for bash scripting.  I enjoy automating tasks and crafting efficient solutions with these scripts.
-- 🌱 I’m currently learning Python, expanding my programming horizons.
-- 💞️ I’m looking to collaborate on projects involving cryptocurrency and the fascinating world of automated algorithms.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Hey there!
-I'm interested in the world of programming, particularly with a fascination for bash scripting.  I enjoy automating tasks and crafting efficient solutions with these scripts.
+👋 Hello there! I'm Greg - 
+💻 I'm a tech enthusiast with a passion for Bash scripting and automation. I enjoy finding creative ways to solve problems, simplify workflows, and craft efficient solutions with clean scripts.
 
-Beyond scripting, I'm highly curious about the cutting-edge fields of artificial intelligence and cryptocurrency.  I'm always looking to learn more about their potential and development.
+🌱 Currently, I'm expanding my skills into Python programming and diving into the fascinating world of cryptocurrency and AI. I love learning about the intersection of tech and finance, and how we can use automation to do more with less.
 
-This profile is a work in progress, but feel free to reach out if you share similar interests or have any projects you'd like to discuss!
-<!---
-BashDEV96/BashDEV96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I’m always looking to collaborate on interesting projects, especially those involving automation, crypto trading, and AI-driven tools.
+
+🔍 Outside of programming, you’ll find me geeking out about sci-fi shows, gaming, or working on ways to integrate AI into website development and automation.
+
+Feel free to reach out if you have similar interests or want to work on a project together!
